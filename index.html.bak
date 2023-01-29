@@ -1,0 +1,45 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	</head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>car showroom</title>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body bg color="pink">
+	<header class="header">
+		<a href="#" class="logo">
+			<img src="img\logo.jpg" width="120" height="90" alt="">
+		</a>
+		<nav class="navbar">
+			<a href="home.html">HOME</a>&nbsp;&nbsp;
+			<a href="about.html">ABOUT</a>&nbsp;&nbsp;
+			<a href="car.html">CARS</a>&nbsp;&nbsp;
+			<a href="brand.html">BRAND</a>&nbsp;&nbsp;
+			<a href="contact.html">CONTACT US</a>&nbsp;&nbsp;
+			
+			
+		</nav>
+	</header>
+	<text align="center">
+
+	<section class="home" id="home">
+		<div class="wrapper">
+			<h1>front page</h1>
+								
+			
+		
+
+
+		<div class="content">
+			<h3>Latest Car In Our Showroom</h3>
+			<p>The best proven performance in our showroom.</p>
+			<a href="#" class="btn">get yours now</a>
+		</div>
+	</section>
+
+	
+	
+
+</body>
+</html>

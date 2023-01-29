@@ -1,0 +1,75 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	transition: .2s linear;
+}
+
+html{
+	font-size: 62.5%;
+	overflow-x: hidden;
+	scroll-padding-top: 9px;
+	scroll-behavior: smooth;
+
+}
+body{
+	background: var(--bg);
+}
+section{
+	padding: 2rem 7%;
+}
+
+
+heading{
+	text-align:center;
+	color:#fff;
+	text-transform:uppercase;
+	padding-bottom: 3.5;
+	font-size: 5px;
+	
+}
+
+header logo img{
+	height: 5rem;
+}
+
+header navbar a{
+	margin: 0 1rem;
+	font-size: 1.6rem;
+	color: #fff;
+}
+
+header navbar a{
+	margin: 0 1px;
+	font-size: 1.6px;
+	color: #;
+	background: blue;
+
+}
+
+header navbar a:hover{
+	color: var(--main-color);
+	border-bottom: .1rem solid var(--main-color);
+	padding-bottom: .5px;
+}
+
+home{
+	min-height: 100vh;
+	display: flex;
+	flex-direction: row-reverse;
+	align-items: right;
+	background: url(../images/home1.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+.home .content{
+	max-width: 60px;
+}
+
+
+
+
